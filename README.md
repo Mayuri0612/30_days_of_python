@@ -9,7 +9,7 @@ Tesla with autonomous driving, Instagram as a web app backend, Intel to pilot dr
 
 So I feel having a core knowledge of this programming language is a must. 
 
-Each file/folder will be uploaded in a sequence from day1 to day28(approx). 
+Each file/folder will be uploaded in a sequence from day1 to day28(approx). Along with that i'll be uploading some notes(text file) or will be writing it in readme section, if required.
 
 Other than that I'll also be uploading some other python programs related to data structure other some other basic concepts, explicitly, which will give more clarity  about that particular topic.
 
