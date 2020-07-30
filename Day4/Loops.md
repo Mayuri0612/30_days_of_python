@@ -1,4 +1,6 @@
 ```
+
+>>> user_1 = {'username': 'Mk', 'id': 1}
 >>> user_2 = {'username': 'abc', 'id': 2, 'email': 'abc@abc.abc'}
 >>> print(my_users)
 [{'username': 'jmitchel3', 'id': 1}, {'username': 'abc', 'id': 2}]
