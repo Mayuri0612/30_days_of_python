@@ -1,6 +1,6 @@
 # Day 5 - Conditions & Control Flow
 
-__Reference__
+__Reference__ = https://github.com/codingforentrepreneurs/30-Days-of-Python/tree/master/tutorial-reference/Day%205
 ```
 >>> True
 >>> False
