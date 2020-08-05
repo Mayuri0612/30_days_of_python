@@ -1,4 +1,5 @@
 # Day 6 - String Formatting & F-Strings
+__REFERENCE__ = https://github.com/codingforentrepreneurs/30-Days-of-Python/tree/master/tutorial-reference/Day%206
 Python has ways to make writing text a bit more programmic and helps systematically remove repeating youself.
 
 Also, check out:
